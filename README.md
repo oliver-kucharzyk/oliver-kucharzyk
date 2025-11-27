@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Oliver Kucharzyk 👋
 
-<!--
-**oliver-kucharzyk/oliver-kucharzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | 🚀 C++ & Systems Developer
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate at **County College of Morris** with a passion for **low-level systems programming**, **performance optimization**, and the intersection of hardware and software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unlike many web-focused developers, I specialize in the **Microsoft Windows ecosystem** (Visual Studio, MFC) and **real-time simulation**, making me a strong fit for high-performance engineering environments.
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages**  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Tools & Frameworks**  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478cbf) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Core Concepts**  
+`Multithreading` `TCP/IP Sockets` `Memory Management` `STL` `MFC` `Object-Oriented Design`
+
+---
+
+### 📫 Connect with Me
+
+*   **Location:** Wharton, NJ (Open to local roles in NJ)
+*   **LinkedIn:** [linkedin.com/in/oliver-kucharzyk](https://www.linkedin.com/in/oliver-kucharzyk)
+*   **Email:** kucharzykoliver@gmail.com
