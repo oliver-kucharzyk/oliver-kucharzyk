@@ -15,7 +15,7 @@ I am a Computer Science undergraduate at **County College of Morris** with a pas
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478cbf) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Core Concepts**  
-`Multithreading` `TCP/IP Sockets` `Memory Management` `STL` `MFC` `Object-Oriented Design`
+`Multithreading` `TCP/IP Sockets` `Memory Management` `STL` `Object-Oriented Design`
 
 ---
 
