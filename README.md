@@ -21,6 +21,4 @@ I am a Computer Science undergraduate at **County College of Morris** with a pas
 
 ### 📫 Connect with Me
 
-*   **Location:** Wharton, NJ (Open to local roles in NJ)
 *   **LinkedIn:** [linkedin.com/in/oliver-kucharzyk](https://www.linkedin.com/in/oliver-kucharzyk)
-*   **Email:** kucharzykoliver@gmail.com
