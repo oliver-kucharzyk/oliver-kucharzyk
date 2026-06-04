@@ -4,8 +4,6 @@
 
 I am a Computer Science undergraduate at **County College of Morris** with a passion for **low-level systems programming**, **performance optimization**, and the intersection of hardware and software. 
 
-Unlike many web-focused developers, I specialize in the **Microsoft Windows ecosystem** (Visual Studio, MFC) and **real-time simulation**, making me a strong fit for high-performance engineering environments.
-
 ---
 
 ### 🛠️ Technical Arsenal
